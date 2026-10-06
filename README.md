@@ -42,6 +42,7 @@ We put this list together at Pollume while building products for startups across
 - [Beehiiv](https://beehiiv.com) - Newsletter platform with solid built-in growth tools. Worth considering if content is a real part of your distribution strategy.
 - [Plausible](https://plausible.io) - Privacy-friendly analytics that you can self-host. Much lighter than GA4 and the dashboard shows you what you actually need.
 - [PostHog](https://posthog.com) - Product analytics, session recordings, feature flags, and A/B testing in one open-source tool. Replaces several separate products.
+- [Power CM Partners](https://partners.powercm-software.com/) - Free partner and creator network for software products, with tracked campaigns, attributed registrations, verified sales, and commission reporting.
 - [Cal.com](https://cal.com) - Open-source scheduling tool. A good Calendly replacement if you want to own your data and avoid paying per seat.
 - [Tally](https://tally.so) - Free form builder that looks better than Typeform and has no response limits. Overlooked by a lot of teams.
 - [Loom](https://loom.com) - Async video messaging. Replaces a lot of meetings and works well for onboarding new users or explaining features without writing a wall of text.
